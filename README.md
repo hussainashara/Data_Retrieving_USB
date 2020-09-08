@@ -1,4 +1,4 @@
-# Sucking-USB
+# Data_Retrieving_USB
 
 --------------------------------------"DISCLAIMER:-ITS JUST FOR EDUCATIONAL PURPOSE"-------------------------------------------
 
